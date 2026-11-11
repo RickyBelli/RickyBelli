@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RickyBelli
-- 👀 I’m interested in physics, mathematics, engineering and obviously computer science!
-- 🌱 I have a Master's degree in theoretical physics.
+- 👀 I’m a theoretical physicist specialized in the study of fundamental interactions, with also a deep interest in mathematics, engineering, and obviously computer science!
+- 🌱 Currently I program in Mathematica, but I also have knowledge of C++ and Python.
 - 📫 How to reach me:
 - Personal email: riccardobelli777@gmail.com
 - University email: riccardo.belli@unimi.it , 5239610@studenti.unige.it
